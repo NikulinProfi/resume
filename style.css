@@ -146,6 +146,9 @@ a:visited {
         margin-right: 0;
         margin-bottom: 10px;
     }
+    .info-text {
+        margin-left: 0;
+    }
 }
 
 .form-group label {
@@ -166,7 +169,7 @@ a:visited {
     font-family: inherit;
 }
 
-@media (max-width: 630px) {
+@media (max-width: 650px) {
     .info {
         display: block;
         text-align: center;
